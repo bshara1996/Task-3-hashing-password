@@ -6,7 +6,7 @@ User passwords are securely stored in the database using a hashing algorithm to 
 
 ## Accounts stored in database to test
 
-<pre>
+<pre> ```json 
 [
   {
     "name": "Bshara Karkaby",
@@ -23,7 +23,7 @@ User passwords are securely stored in the database using a hashing algorithm to 
     "email": "test@gmail.com",
     "password": "55"
   }
-]
+]```
 </pre>
 
 
