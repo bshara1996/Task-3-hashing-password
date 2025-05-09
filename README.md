@@ -6,7 +6,7 @@ User passwords are securely stored in the database using a hashing algorithm to 
 
 ## Accounts stored in database to test
 
-<pre>json 
+<pre> 
 [
   {
     "name": "Bshara Karkaby",
